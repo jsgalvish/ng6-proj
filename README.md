@@ -25,3 +25,9 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+## Helpfull Links
+
+https://coursetro.com/posts/code/154/Angular-6-Tutorial---Learn-Angular-6-in-this-Crash-Course
+http://javasampleapproach.com/spring-framework/spring-data/spring-boot-angular-6-example-spring-data-rest-mongodb-crud-example
+http://javasampleapproach.com/frontend/angular/how-to-integrate-angular-6-springboot-2-0-restapi-springtoolsuite
